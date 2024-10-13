@@ -83,55 +83,55 @@ def format_case_data(case):
 
 # User input for the query
 user_query = st.text_input("Enter your legal question/query:")
+if st.button("Submit"):
+    if user_query:
+        with st.spinner("Generating response..."):
+            # Generate embedding for the user query
+            query_embedding = generate_query_embedding(user_query, tokenizer, model)
 
-if user_query:
-    with st.spinner("Generating response..."):
-        # Generate embedding for the user query
-        query_embedding = generate_query_embedding(user_query, tokenizer, model)
+            # Query Pinecone with the query embedding
+            query_response = index.query(vector=query_embedding.tolist(), top_k=5)
+            retrieved_docs_ids = [match['id'] for match in query_response['matches']]
 
-        # Query Pinecone with the query embedding
-        query_response = index.query(vector=query_embedding.tolist(), top_k=5)
-        retrieved_docs_ids = [match['id'] for match in query_response['matches']]
+            # Convert document IDs back to retrieve cases
+            retrieved_docs_ids = [int(doc_id[4:]) for doc_id in retrieved_docs_ids]
+            
+            # Create a dictionary for quick lookup
+            documents_dict = {case['ID']: case for case in documents}
 
-        # Convert document IDs back to retrieve cases
-        retrieved_docs_ids = [int(doc_id[4:]) for doc_id in retrieved_docs_ids]
-        
-        # Create a dictionary for quick lookup
-        documents_dict = {case['ID']: case for case in documents}
+            # Retrieve cases by their ID
+            retrieved_docs = [documents_dict[doc_id] for doc_id in retrieved_docs_ids if doc_id in documents_dict]
 
-        # Retrieve cases by their ID
-        retrieved_docs = [documents_dict[doc_id] for doc_id in retrieved_docs_ids if doc_id in documents_dict]
+            # Format each retrieved document
+            structured_documents = [format_case_data(doc) for doc in retrieved_docs]
 
-        # Format each retrieved document
-        structured_documents = [format_case_data(doc) for doc in retrieved_docs]
+            # Combine into a single text document
+            final_document = "\n\n".join(structured_documents)
 
-        # Combine into a single text document
-        final_document = "\n\n".join(structured_documents)
+            # Display retrieved documents
+            st.write(final_document)
 
-        # Display retrieved documents
-        st.write(final_document)
+            # API request to Kindo AI
+            url = "https://llm.kindo.ai/v1/chat/completions"
+            headers = {
+                "api-key": kindo_api_key,
+                "content-type": "application/json"
+            }
+            
+            data = {
+                "model": "gemini-1.5-pro",
+                "messages": [
+                    {"role": "system", "content": "You are a highly skilled and experienced legal advisor..."},
+                    {"role": "system", "content": "Here is the case reference document" + final_document},
+                    {"role": "user", "content": user_query}
+                ]
+            }
 
-        # API request to Kindo AI
-        url = "https://llm.kindo.ai/v1/chat/completions"
-        headers = {
-            "api-key": kindo_api_key,
-            "content-type": "application/json"
-        }
+            # Send the request
+            response = requests.post(url, headers=headers, data=json.dumps(data))
 
-        data = {
-            "model": "gemini-1.5-pro",
-            "messages": [
-                {"role": "system", "content": "You are a highly skilled and experienced legal advisor..."},
-                {"role": "system", "content": "Here is the case reference document" + final_document},
-                {"role": "user", "content": user_query}
-            ]
-        }
-
-        # Send the request
-        response = requests.post(url, headers=headers, data=json.dumps(data))
-
-        # Check the response and display it
-        if response.status_code == 200:
-            st.write(response.json()['choices'][0]['message']['content'])
-        else:
-            st.write(f"Error: {response.status_code}")
+            # Check the response and display it
+            if response.status_code == 200:
+                st.write(response.json()['choices'][0]['message']['content'])
+            else:
+                st.write(f"Error: {response.status_code}")
