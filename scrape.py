@@ -81,9 +81,37 @@ def format_case_data(case):
     
     return structured_text
 
-# User input for the query
 user_query = st.text_input("Enter your legal question/query:")
-if st.button("Submit"):
+# User input for the query
+col1, col2, col3 = st.columns(3)
+
+# Add submit, stop, and edit buttons in a single line using columns
+with col1:
+    submit_button = st.button("Submit")
+with col2:
+    stop_button = st.button("Stop")
+with col3:
+    edit_button = st.button("Edit")
+
+# State to track if user has submitted
+if 'submitted' not in st.session_state:
+    st.session_state['submitted'] = False
+
+# Handle the stop button: reset the submission state
+if stop_button:
+    st.session_state['submitted'] = False
+    st.write("Process stopped.")
+    
+# Handle the edit button: reset submission and allow editing
+if edit_button:
+    st.session_state['submitted'] = False
+    st.write("You can edit your query now.")
+
+# If the submit button is clicked and the query is provided
+if submit_button and user_query and not st.session_state['submitted']:
+    st.session_state['submitted'] = True
+
+    # Generating response after submission
     if user_query:
         with st.spinner("Generating response..."):
             # Generate embedding for the user query
@@ -132,6 +160,11 @@ if st.button("Submit"):
 
             # Check the response and display it
             if response.status_code == 200:
-                st.write(response.json()['choices'][0]['message']['content'])
+                query_response_text = response.json()['choices'][0]['message']['content']
+                st.write(query_response_text)
             else:
                 st.write(f"Error: {response.status_code}")
+
+# If a response is already generated, allow user to stop or edit
+if st.session_state['submitted']:
+    st.write("Process complete. You can stop or edit the query if needed.")
