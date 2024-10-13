@@ -1,0 +1,247 @@
+{
+  "id": 7286330,
+  "name": "Eric LARSON, Plaintiff v. MILL CREEK FIRE COMPANY, Les Brown, and Aaron Olicker, Defendants",
+  "name_abbreviation": "Larson v. Mill Creek Fire Co.",
+  "decision_date": "2010-06-04",
+  "docket_number": "Civil Action No. 09C-04-026-JOH",
+  "first_page": "361",
+  "last_page": "370",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "1 A.3d 361"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Del. Super. Ct.",
+    "id": 9286,
+    "name": "Delaware Superior Court"
+  },
+  "jurisdiction": {
+    "id": 8,
+    "name_long": "Delaware",
+    "name": "Del."
+  },
+  "cites_to": [
+    {
+      "cite": "683 A.2d 40",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7859066
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/683/0040-01"
+      ]
+    },
+    {
+      "cite": "182 A.2d 901",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 3,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "903"
+        },
+        {
+          "page": "903-04"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "532 P.2d 478",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10469660
+      ],
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/532/0478-01"
+      ]
+    },
+    {
+      "cite": "2009 WL 1027103",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "712 A.2d 1011",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11824262
+      ],
+      "pin_cites": [
+        {
+          "page": "1015"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/712/1011-01"
+      ]
+    },
+    {
+      "cite": "96 A.2d 456",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "462"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "213 A.2d 853",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "855"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "938 A.2d 637",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8317598
+      ],
+      "pin_cites": [
+        {
+          "page": "641"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/938/0637-01"
+      ]
+    },
+    {
+      "cite": "1990 WL 124044",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "*3, n. 1"
+        },
+        {
+          "page": "*1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "668 A.2d 1355",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7875656
+      ],
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "1364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/668/1355-01"
+      ]
+    },
+    {
+      "cite": "405 A.2d 679",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8050346
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/405/0679-01"
+      ]
+    },
+    {
+      "cite": "903 A.2d 276",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8409366
+      ],
+      "year": 2006,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/903/0276-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1017,
+    "char_count": 26792,
+    "ocr_confidence": 0.696,
+    "pagerank": {
+      "raw": 4.03580807328026e-08,
+      "percentile": 0.18827661381030322
+    },
+    "sha256": "7c32233926a0430541deb7ed18dca3c8ab104b5bec1e5eae7ca6795f65349576",
+    "simhash": "1:562287481c8016ea",
+    "word_count": 4342
+  },
+  "last_updated": "2024-02-27T22:12:33.551687+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [],
+    "parties": [
+      "Eric LARSON, Plaintiff v. MILL CREEK FIRE COMPANY, Les Brown, and Aaron Olicker, Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nHERLIHY, Judge\nBoth the County and Municipal Tort Claims Act and the Workers\u2019 Compensation Act contain specific provisions concerning volunteer firefighters. However, those two provisions lead to somewhat conflicting classifications. Under the County and Municipal Tort Claims Act, a volunteer firefighter is immune from suit but for a limited series of actions; therefore, he or she must be considered a county or municipal employee under that Act.\nOn the other hand, the Workers\u2019 Compensation Act mandates that, for the purposes of that Act, volunteer firefighters shall be treated as state employees. The motion under the Court\u2019s consideration requires it, as a matter of first impression, to define volunteer firefighters\u2019 employer and that determination ultimately decides two volunteer firefighters\u2019 status as defendants in a personal injury action brought by a third volunteer firefighter.\nPlaintiff Eric Larson of the Cranston Heights Fire Company filed suit against Aaron Olicker and Les Brown, both firefighters with the Mill Creek Fire Company and also against Mill Creek Fire Company. He was injured by Olicker\u2019s and Brown\u2019s alleged negligence when Larson was descending a ladder pursuant to an emergency evacuation. Larson alleges that Olicker retracted the ladder at Brown\u2019s command and crushed his foot in between its steps. The defendants have filed two motions for summary judgment. The firefighters and Mill Creek defendants argue that the exclusivity provisions found in the Workers\u2019 Compensation Act immunize them, or, in the alternative, that they can take advantage of the Borrowed Servant Doctrine in order to utilize the same exclusivity provisions.\nOlicker and Brown filed their own motion independent of Mill Creek. They argue that they were never properly served nor were their actions willful and wanton under the County and Municipal Tort Claims Act, which is required in order to attach liability.\nThe Court finds that the Worker\u2019s Compensation Act means Larson, Olicker and Brown are all employed by the State of Delaware. Therefore, the individual defendants can invoke the exclusivity provisions of the Workers\u2019 Compensation Act to immunize them from Larson\u2019s action. The same cannot be said, however, for Mill Creek because the Workers\u2019 Compensation Act is silent about how it relates to fire companies, and the Court does not find the necessary implication required to extend its holding beyond firefighters to fire companies. Also, there are genuine issues of fact that preclude summary judgment with respect to the Borrowed Servant Doctrine\u2019s application to Mill Creek. Finally, because the Court grants judgment in favor of Olicker and Brown, there is no need to decide the service of process or Municipal and County Tort Claims issues concerning them.\nFactual Background\nOn April 7, 2007, Eric Larson was a volunteer firefighter member of the Cran-ston Heights Fire Company. He was in charge of a unit of other Cranston Heights firefighters who responded to a fire at the Village of Plum Run Townhouses in suburban Wilmington. They are located in the jurisdiction/territory of the Mill Creek Fire Company. By practice among fire companies, the overall fire suppression effort was commanded by Chief J.D. Howell of Mill Creek. Howell ordered Larson and his unit to go onto the roof to chop holes in it to provide ventilation for the fire below. After being on the roof a short time, Howell issued an emergency evacuation order, requiring everyone off the roof and to report to their chiefs to be counted to ensure everyone was safe.\nWhile Larson was descending the ladder, Mill Creek Assistant Chief, volunteer firefighter Les Brown, became concerned with the length of time it was taking Larson to get off the roof. He started to shout at him (using expletive language) to get down the ladder more rapidly. At the same time, Aaron Olicker, a full time professional Mill Creek firefighter, was at the ladder\u2019s control. He was concerned about a gap between the roof from which the firefighters were descending and the ladder. He intended to reposition the ladder so it would have no gap. Olicker testified at his deposition that he saw Larson descending the ladder and yelled to him that he was going to move it. Shortly after, Brown'yelled at Olicker, \u201cGet him off the ladder. Move that [expletive deleted] ladder now.\u201d Olicker retracted the ladder and Larson\u2019s foot was crushed between two steps in it.\nAs a result of his injuries, Larson received state-paid workers\u2019 compensation through the Delaware Volunteer Firemen\u2019s Association and was able to return to work on December 2, 2007.\nLarson filed suit against Mill Creek, Ol-icker and Brown. Before the Court are two motions. The first is all three defendants\u2019 motion for summary judgment based upon workers\u2019 compensation statutes. The second is the individual defendants\u2019 motion to dismiss based on improper service of process and a motion for summary judgment based on the Delaware Municipal and County Tort Claims Act.\nParties\u2019 Contentions All Defendants\u2019 Motion\nDefendants argue that under 19 Del. C. \u00a7 2312 a volunteer firefighter is a state employee. They argue that because Larson, Brown and Olicker are all employees of the same employer, the State of Delaware, the exclusivity provisions take effect and summary judgment is appropriate. They further allege that Mill Creek must also be considered, the State, i.e., the employer, by necessary implication. By virtue of the fact that all parties are now entities or employees of the State, defendants assert, they can invoke the exclusivity provisions found in the Workers\u2019 Compensation Act.\nIn response, Larson argues that there is nothing in the statute that would apply outside of actual workers\u2019 compensation benefits to be paid and that defendants have already argued that they are county or municipal employees in their other motion. He further contends that the evidence has shown that Mill Creek is not a state agency. Namely, because the State did not have oversight over the day-to-day operations of Mill Creek, that there was no State investigation after the injury, that each firehouse has its own operating procedures and disciplinary procedures, and that the State does not test volunteer firefighters for competency nor does it inspect volunteer fire company books, Mill Creek is not a State agency. Larson asserts that a judgment would not be paid by the same entity that is paying the workers\u2019 compensation.\nIn the alternative, the three defendants argue that under the Borrowed Servant Doctrine, Larson became an employee of Mill Creek because J.D. Howell, Mill Creek\u2019s Chief, had the authority to dictate Larson\u2019s actions. If so, this means that all defendants can invoke the exclusivity provisions of \u00a7 2363 in the same way they attempt to when they classify themselves as state employees.\nLarson contends that a determination that an employee is a borrowed servant is a factual issue that cannot be decided at a motion for summary judgment.\nBrown and Olicker\u2019s Motion\nBrown and Olicker argue that the service of process on them was improper. They state that they were not served in their place of abode, as required by Superior Court Civil Rule 4. Instead, they were served by the plaintiff leaving copies of the complaint at the Mill Creek Fire Station.\nIn response, Larson contends that they were employees and volunteers of the fire station and received notice because they answered the complaint and participated in discovery. They ask that if service is deemed improper that they be given more time to properly serve the two defendants.\nSecond, defendants argue that the Municipal Tort Claims Act bars recovery against them. They state that 10 Del. C. \u00a7 4010 qualifies Olicker and Brown as municipal employees and that \u00a7 4011 makes them immune from suit. They state that there is nothing in the record that indicates they acted with wanton negligence or maliciously. Larson replies that Brown\u2019s and Olicker\u2019s actions could be considered wanton or grossly negligent and that there is a genuine factual issue on that.\nStandard of Review\nSummary judgment may only be granted where there are no genuine issues of material fact and the moving party is enti-tied to judgment as a matter of law. The party who seeks summary judgment bears the burden of showing a lack of genuine issue and entitlement to judgment as a matter of law, and the Court must view the record in the light most favorable to the non-moving party.\nDiscussion\nOlicker and Brown are State Employees\nWhether to define a volunteer firefighter as a state employee or not for purposes of workers\u2019 compensation\u2019s exclusivity immunity is a matter of first impression. The Court acknowledges the inconsistent classification of volunteer firefighters by comparing Title 19 and Title 10. Such discrepancy can be reconciled by careful scrutiny of the text of the statute at issue. It reads, \u201cFor the purposes of this chapter, volunteer firefighters shall be treated as State employees so long as the State elects to be covered by the application of this chapter.\u201d Chapter 23 of Title 19 is the Workers\u2019 Compensation Act (\u201cAct\u201d).\nIt is important that \u00a7 2312 contains that introductory phrase. It does not state, \u201cFor purposes of determining compensation to be paid.\u201d That phrase is how Larson would interpret it so that the only relevance of \u00a7 2312 is to link volunteer firefighters to a system of determining how much a \u201cvolunteer\u201d is to be paid when injured. \u201cChapter\u201d in \u00a7 2312 includes all of Chapter 23 of Title 19. Included in that Chapter 23 are several key provisions. In it is \u00a7 2304, providing:\nEvery employer and employee, adult and minor, except as expressly excluded in this chapter, shall be bound by this chapter respectively to pay and to accept compensation for personal injury or death by accident arising out of and in the course of employment, regardless of the question of negligence and to the exclusion of all other rights and remedies.\nThis section means Larson\u2019s exclusive right to seek workers\u2019 compensation is from his employer. Though from a different volunteer fire company, \u00a7 2304 would mean if Olicker or Brown were injured fighting a fire, their exclusive remedy would be compensation from their employer. The issue then becomes, to what extent are volunteer firefighters treated as State employees and can it be said that their employer is in fact the State of Delaware?\nIn order to come to this decision the Court must consider the role of the State in a firefighter\u2019s workers\u2019 compensation claim. \u201cUnder Delaware law, a volunteer fireman injured during the performance of his volunteer duties is insured for workmen\u2019s compensation by the State of Delaware.\u201d The record shows that the State has insured Larson in this case as well. He admits in his response to defendants\u2019 motion that the State paid him workers\u2019 compensation benefits and that the State has asserted a lien against Larson\u2019s recovery, if any, in this case. The State is Larson\u2019s insurer. Given that Larson was insured by the State, it necessarily follows that the State functioned as Brown and Olieker\u2019s workers\u2019 compensation insurer as well.\nThe synopsis to the bill that first added the \u201cstate employee\u201d language of \u00a7 2312 indicates that the General Assembly changed the statute to \u201cbring volunteer firemen within the self-insurance coverage of the State for workers\u2019 compensation purposes.\u201d The Act defines the employer\u2019s insurer as an employer \u201cas far as practicable.\u201d Under the broad definition of employer, that would include the State.\nThat conclusion is critical because the Act is the exclusive remedy for injuries that occur from compensable accidents and employers and their employees are immune from suits at common law. The Supreme Court has recently observed, \u201cInjured employees cannot generally bring third party claims against co-employees because co-employees are generally considered to be \u2018in the same employ\u2019 under \u00a7 2363(a), and thus, fall within the definition of \u2018employer\u2019 under [19 Del. C. \u00a7 2304].\u201d\nThe Court explained the rationale behind the co-employee immunity in Groves v. Marvel:\nThe purpose of \u00a7 2363(a), and like enactments, is to exclude co-employees from the category of \u2018third persons\u2019 who may be sued by an injured employee, thus to bar common law negligence suits against co-employees by fellow employees or by subrogated employers in connection with compensable injuries. It appears that the employer\u2019s immunity from suit has been legislatively extended to co-employees in a number of states on the theory that, as part of the quid pro quo in the compromise of rights which forms the basis of workmen\u2019s compensation, employees are entitled to freedom from negligence suits for compensable injuries. The rationale for such legislation seems to be that by becoming employed in industry, the worker multiplies the probability of not only injury to himself but also liability to others; and if he is exposed to ruinous suits for damages by co-employees, the beneficent effects of workmen\u2019s compensation are too drastically reduced.\nThe Court takes notice of the dangers of a firefighter\u2019s duties. In what may be chaotic and fast moving circumstances, firefighters must make decisions and perform a difficult job. The rationale behind co-employee immunity found in Groves is equally applicable to volunteer firefighters. A firefighter should be able to discharge his duties without fear of liability if he or she injures a fellow firefighter through his or her negligence. In the unfortunate event of a firefighter\u2019s injury, that injured person is made whole through workers\u2019 compensation. It is appropriate to immunize firefighters in these circumstances. The simple fact that Larson was from a different company than Brown and Olicker does not bear any consequence. All the firefighters were engaged in a single task the day Larson was injured.\nThe differences between fire companies should not operate to strip away a volunteer firefighter\u2019s immunity from suit. The expansive definition of employer in \u00a7 2301(11), as well as the rationale underlying the co-employee immunity described in Groves requires this Court to hold that volunteer firefighters, for purposes of workers\u2019 compensation, are State employees. Section 2363 prohibits a suit at common law among volunteer firefighters who are injured in accidents compensable by workers\u2019 compensation. The Court also notes a separate reason why volunteer firefighters are be considered employees of the State for \u00a7 2363(a) purposes. Delaware\u2019s jurisprudence on subrogated claims requires this Court to find a common employer. Section 2363(a) creates a right of subrogation to the workers\u2019 compensation insurer. \u201c[T]he employer or its compensation insurance carrier may, within the period of time for the commencement of actions prescribed by statute, enforce the liability of such other person in the name of that person.\u201d The Supreme Court held the same regarding workers\u2019 compensation, \u201cAs a matter of general insurance law, an insurer who pays a loss suffered by the insured is entitled to be subrogated pro tanto to any right of action which the insured may have against a third person.\u201d\nThe insurer\u2019s status as subrogee is critical to the Court\u2019s determination because of \u201canti-subrogation\u201d principles. This Court previously held, \u201cNo right of subrogation exists, however, against the insured, co-insured or where the wrongdoer is insured under the same policy.\u201d Because all volunteer firefighters share the same workers\u2019 compensation insurer, the State, it follows that the State would not have a right to seek damages against any other volunteer firefighter under the same policy. The State is not the plaintiff in this action, but that principle must be noted.\nSection 2363(e) provides that \u201c[a]ny recovery against the third party for damages resulting from personal injuries or death only, after deducting expenses or recovery, shall first reimburse the employer or its workers\u2019 compensation insurance carrier for any amounts paid or payable under the Workers\u2019 Compensation Act to date of re-eovery[.]\u201d This creates a lien held by the insurance carrier that becomes effective when the injured employee receives a judgment from a third party. The practical effect in this case would be that if Larson received a judgment from Olicker or Brown, then the State would collect whatever it paid out before Larson received anything. This would violate the anti-subrogation rules cited above.\nThis Court has observed the underlying rationale that prevents subrogation among co-insured parties in Hartford Insurance Co. v. Community Systems, Inc. It concerned a suit by a landlord and its subro-gee against an individual tenant and the tenant association for damages resulting from a fire. Although that case is factually different, the rationale behind such anti-subrogation principles was clearly defined:\nThe company affording such [insurance] coverage should be allowed to shift a fire loss to an occupying tenant even if the latter negligent caused it.... For to conclude otherwise is to shift the insurable risk assumed by the insurance company from it to the tenant \u2014 a party occupying a substantially different position from that of a fire-causing third party not in privity with the insured landlord.\nThe rationale explained in Hartford Insurance holds here as well. If the Court were to allow a suit by one volunteer firefighter against another it would be, in effect, allowing the insurer, the State, to recoup its loss from a party that it insured. If Olicker or Brown were required to pay a judgment, the State would recover what it first paid out in workers\u2019 compensation coverage to an injured party from another person that it insures. It would not be permitted to sue Brown or Olicker directly and is not able to do indirectly what it cannot do on its own. The State\u2019s status as subrogee and lienholder requires that the all the volunteer firefighters be considered State employees for purposes of exclusivity under \u00a7 2363(a).\nThe Court\u2019s holding that Larson, as a State employee, cannot, under Title 19, Chapter 23 sue Brown and Olicker, as co-State employees does not create a conflict with the County and Municipal Tort Claims Act. That Tort Claims Act includes volunteer firefighters within its definition of employee. It also includes \u201call registered\u201d volunteer fire companies as \u201cgovernmental entities.\u201d\nVolunteer firemen can be liable for acts not performed within the scope of their employment or acts within the scope of their employment with wanton negligence or willful and malicious intent. It is precisely wanton negligence which is the basis for Larson\u2019s claim against Brown and Ol-icker.\nThe Court does not see an irreconcilable conflict between its holding that, under the Workers\u2019 Compensation Act, Larson cannot sue Brown and Olicker and the above provisions in the Tort Claims Act. These two statutes are reconcilable. That reconciliation is that under the Tort Claims Act. Brown and Olicker could be sued by a third-party who is not a firefighter.\nThe motion for summary judgment with respect to Brown and Olicker is GRANTED.\nThe Court\u2019s holding that Larson cannot maintain his suit against Olicker and Brown does not reach Mill Creek. Its only argument that it does is that by implication it becomes the State and cannot be sued. It cites no authority for this statement nor has the Court\u2019s own research revealed any to support its claim. The Court\u2019s analysis of the consequences of 19 Del. C. \u00a7 2312, since it uses volunteer firefighters and not volunteer fire companies, is that it applies to Brown and Olicker. This leaves the provision in 10 Del. C. \u00a7 4012(1) that it may be liable to Larson for its maintenance or use of the fire truck or other equipment. The Court sees no conflict between leaving Mill Creek\u2019s liability an open question under these statutes but ending any potential liability by Brown and/or Olicker.\nAccordingly, Mill Creek\u2019s motion for summary judgment is DENIED.\nOlicker and Brown\u2019s Motion to Dismiss on Service of Process and Motion for Summary Judgment Based on the County and Municipal Tort Claims Act\nThe Court declines to address Olicker and Brown\u2019s motion to dismiss for insufficient service of process and motion for summary judgment under the Municipal and County Tort Claims Act. This motion is MOOT because the individual defendants are immune from suit by Larson under \u00a7 2363(a).\nMill Creek\u2019s Motion that Larson was a Borrowed Servant\nAlthough Olicker and Brown are no longer defendants, Mill Creek remains. It presents a separate alternative argument to the \u00a7 2312 issue discussed above. It argues that the Borrowed Servant Doctrine applies to Larson and as a method of its operation, invokes the exclusivity principles contained within the Workers\u2019 Compensation Act because Larson, Olicker and Brown were all employed by Mill Creek on the date of Larson\u2019s injury. The import would be that if Olicker, Brown, and Larson were employees of Mill Creek, the exclusivity provisions of the Workers\u2019 Compensation Act would trump 10 Del. C. \u00a7 4012 discussed above.\nThe Supreme Court clearly defined the Borrowed Servant Doctrine in Richardson v. John T. Hardy & Sons, Inc.\nThe general rule is that an employee, with his consent, may be loaned by his general employer to another to perform specific services, and that, in the course of and for the purpose of performing such services, he may become the employee of the specific employee rather than the employee of the general manager. Accordingly, a loaned employee may become the specific employer\u2019s employee while at the same time remaining, generally speaking, the employee of him who loans his services.\nThe Court has previously used the Borrowed Servant Doctrine to determine exclusivity of workers\u2019 compensations claims. However, as Richardson explains, \u201cWhether or not a loaned employee becomes the employee of the one whose immedi\u00e1te purpose he serves is always a question of fact ...\u201d It is clear that Chief Howell of Mill Creek was commanding the scene, but there are other factors which arguably suggest Larson was not a borrowed employee. However, the Court cannot make the factual determination needed to resolve the issue and invoke the Workers\u2019 Compensation\u2019s exclusivity provision at this time. That question must be addressed by a finder of fact at trial. The motion is DENIED.\nConclusion\nFor the foregoing reasons, Aaron Olieker\u2019s and Les Brown\u2019s motion for summary judgment based upon the Workers\u2019 Compensation Act is GRANTED. Their motion to dismiss on insufficient service and motion for summary judgment based on the County and Municipal Tort Claims Act are MOOT.\nMill Creek Fire Company\u2019s motions for summary judgment based upon the Workers\u2019 Compensation Act and upon the Borrowed Servant Doctrine are DENIED.\nIT IS SO ORDERED.\n. The ladder was the type attached to fire truck and was operated by mechanical control from the truck.\n. Olicker Depo. Tr. at 22. (Attached as Def.'s Resp. to Pl.'s Mot. to Dismiss at Ex. 3).\n. 19 Del. C. \u00a7 2363(a).\n. Windom v. Ungerer, 903 A.2d 276, 280 (Del. 2006).\n. Moore v. Sizemore, 405 A.2d 679, 680 (Del. 1979).\n. Brzoska v. Olson, 668 A.2d 1355, 1364 (Del. 1995).\n. 19 Del. C. \u00a7 2312(a) (emphasis added). The State has elected to be covered by this chapter. See DiBiaso v. State, 1990 WL 124044, at *3, n. 1 (Del.Super.). Also, paid employees of volunteer fire companies, like Olicker, are still considered volunteers for Workers' Compensation purposes. See 19 Del. C. \u00a7 2312(d).\n. 19 Del. C. \u00a7 2304.\n. DiBiaso, 1990 WL 124044, at *1.\n. Pl.'s Resp. to Defs.\u2019 Mot. for Summ. J. (Borrowed Servant and Workers' Compensation Statute) at 4.\n. H.B. 431, 132d General Assembly (Del. 1984).\n. 19 Del. C. \u00a7 2301(11).\n. See 19 Del. C. \u00a7 2363(a) (stating, \"Where the injury for which compensation is payable under chapter was caused under circumstances creating a legal liability in some person other than a natural person in the same employ or the employer to pay damages in respect thereof ... such injured employee ... may also proceed to enforce the liability of such third party for damages in accordance with this section.\u201d)(emphasis added).\n. Grabowski v. Mangler, 938 A.2d 637, 641 (Del.2007).\n. 213 A.2d 853 (Del.1965).\n. Id. at 855.\n. 19 Del. C. \u00a7 2363(a).\n. Frank C. Sparks Co. v. Huber Baking Co., 96 A.2d 456, 462 (Del. 1953).\n. Lexington Ins. Co. v. Raboin, 712 A.2d 1011, 1015 (Del.Super.1998).\n. 2009 WL 1027103 (Del.Super.)\n. Id. at *2 (citing Sutton v. Jondahl, 532 P.2d 478, 482 (Okl.App.1975)).\n. 10 Del. C. \u00a7\u00a7 4010-4013.\n. 10 Del. C. \u00a7 4010(a).\n. 10 Del. C. \u00a7 4010(b).\n. 10 Del. C. \u00a7 4010(c).\n. The Court does not in this opinion address the issue of Larson\u2019s ability to sue a State employee who worked for a totally separate agency, such as park ranger, if both were acting within the scope of their employment when Larson were injured. The issues raised in this case and this opinion may merit some legislative attention.\n.Plaintiff notes in his response that Mill Creek Fire Company had retained its own liability insurance carrier and that any judgments paid from any defendants would be covered by that insurer. To argue that the State would not have to pay the general liability misses the mark. The Court reached its decision because the State operated as both dicker's and Brown\u2019s insurer and the party that would recovery from a judgment against them, albeit indirectly. The fact that Mill Creek retained a general liability insurer is irrelevant.\n. A governmental entity shall be exposed to liability for its negligent acts or omissions causing property damage, bodily injury or death in the following instances:\n(1) In its ownership, maintenance or use of any motor vehicle, special mobile equipment, trailer, aircraft or other machinery or equipment, whether mobile or stationary.\n. The Court notes, however, these defendants were not properly served. It sees no reason to allow for proper service and redo these motions.\n. See 19 Del. C. \u00a7 2363 (an employee is not permitted to sue other employees or his employee when injured in the course of his employment and receiving workers' compensation).\n. 182 A.2d 901 (Del. 1962).\n. Id. at 903.\n. Porter v. Pathfinder Servs. Inc, 683 A.2d 40 (Del. 1996).\n. Richardson, 182 A.2d at 903-04.",
+        "type": "majority",
+        "author": "HERLIHY, Judge"
+      }
+    ],
+    "attorneys": [
+      "Matthew M. Bartkowski, Esquire, of Kimmel Carter Roman & Peltz, Newark, Delaware, Attorney for the Plaintiff.",
+      "Jonathan L. Parshall, Esquire, of Murphy & Landon, Wilmington, Delaware, Attorney for the Defendants."
+    ],
+    "corrections": "",
+    "head_matter": "Eric LARSON, Plaintiff v. MILL CREEK FIRE COMPANY, Les Brown, and Aaron Olicker, Defendants.\nCivil Action No. 09C-04-026-JOH.\nSuperior Court of Delaware, New Castle County.\nSubmitted: Feb. 3, 2010.\nDecided: June 4, 2010.\nMatthew M. Bartkowski, Esquire, of Kimmel Carter Roman & Peltz, Newark, Delaware, Attorney for the Plaintiff.\nJonathan L. Parshall, Esquire, of Murphy & Landon, Wilmington, Delaware, Attorney for the Defendants."
+  },
+  "file_name": "0361-01",
+  "first_page_order": 391,
+  "last_page_order": 400
+}
